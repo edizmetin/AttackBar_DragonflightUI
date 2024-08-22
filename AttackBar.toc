@@ -1,5 +1,5 @@
 ## Interface: 11200
-## Title: AttackBar TW Edition
+## Title: AttackBar_DragonflightUI
 ## Version: 5.0.6
 ## Author: Udokus, Sivent
 ## X-Credits: Roablock for cleanup
