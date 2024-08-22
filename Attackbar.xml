@@ -111,7 +111,7 @@
             </Anchor>
           </Anchors>
         </FontString>
-        <Texture name="$parentBorder" file="Interface\AddOns\AttackBar\Customtextures\CastingBarFrame2">
+        <Texture name="$parentBorder" file="Interface\AddOns\AttackBar_DragonflightUI\Customtextures\CastingBarFrame2">
           <Size>
             <AbsDimension x="200" y="18"/>
           </Size>
@@ -137,7 +137,7 @@
         </Texture>
       </Layer>
       <Layer level="OVERLAY">
-        <Texture name="$parentSpark" file="Interface\AddOns\AttackBar\Customtextures\CastingBarSpark" alphaMode="ADD">
+        <Texture name="$parentSpark" file="Interface\AddOns\AttackBar_DragonflightUI\Customtextures\CastingBarSpark" alphaMode="ADD">
           <Size>
             <AbsDimension x="8" y="16"/>
           </Size>
@@ -156,7 +156,7 @@
         Abar_Update()
       </OnUpdate>
     </Scripts>
-    <BarTexture file="Interface\AddOns\AttackBar\Customtextures\Timers"/>
+    <BarTexture file="Interface\AddOns\AttackBar_DragonflightUI\Customtextures\Timers"/>
     <BarColor r="0" g="0" b="0"/>
   </StatusBar>
 	
